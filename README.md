@@ -8,7 +8,7 @@ After processing and cleaning the data, there is a total of 12,079 records in th
 <img src='images/pie2.png'>
 
 Below is the distribution of coupons by type and it shows how popular coffee house are while bar coupons as less accepted type of coupon.
-<img src='images/bar.png'>
+<img src='images/barcoupon2.png'>
 
 In this analysis, acceptance rates of Coffee Houses and Bar coupons were explored. Coffee Houses coupons is the most frequently distributed driver coupon, approximately 32% of the total coupons and Bar coupons are second to the lowest less frequently distributed coupon, approximately 18% of the total coupons distributed. 
 
@@ -16,7 +16,7 @@ In this analysis, acceptance rates of Coffee Houses and Bar coupons were explore
 Key Findings on Bar Coupons:
 
 1. Customers who goes to bars more frequently are less likely to accept bar coupons than customers who goes to the bar less. If they like to go to bars, they will go regardless of having a coupon. On the other hand, less frequent bar goers are more likely to accept the coupon, as the 81% acceptance rate shows. In this group, bar coupons appeal to ages 21 to early 30s. Spending money in a bar is less priority for them, so bar coupons might be a good incentive. 
-<img src='images/barcoupon2.png'>
+<img src='images/bar2.png'>
 
 2. Customers going to bar more than once a month and over age of 25 are likely to accept bar coupons. This age group itself already assume the beginning of drinking stage and high social engagements. This group of customers  are either just started to go to bars or can also be the customers who have been going to bars more frequently. 
 
