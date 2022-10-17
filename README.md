@@ -5,7 +5,7 @@ GOAL: Utilize data exploratory techniques to answer a business question, "Will a
 DATA: This data comes from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’. There are five different types of coupons -- less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20-$50) 
 
 After processing and cleaning the data, there is a total of 12,079 records in this dataset. Approximately 57% were customers who have chosen to accept the coupons and 43% customers did not accept the coupons.
-<img src='images/pie.png'>
+<img src='images/pie2.png'>
 
 Below is the distribution of coupons by type and it shows how popular coffee house are while bar coupons as less accepted type of coupon.
 <img src='images/bar.png'>
@@ -47,7 +47,7 @@ Key Findings on Coffee House Coupons:
 
 RECOMMENDATIONS:
 
-1. Coupons is most often for customers who have less to spend. Coupon offerings and marketing efforts should be increased in low income communities with a good population of students. A great target would be coffee houses next to university campus and their dorms. As mentioned in #4 above, students most likely are able to stay up late to study because of coffee. Therefore, the more coupon offers, the better since most students do not have a lot of income.
+1. Coupons are most often for customers who have less to spend. Coupon offerings and marketing efforts should be increased in low income communities with a good population of students. A great target would be coffee houses next to university campus and their dorms. As mentioned in #4 above, students most likely are able to stay up late to study because of coffee. Therefore, the more coupon offers, the better since most students do not have a lot of income.
 
 2. Bar coupons should probably have an added food component instead of only offering a coupon for a drink to attract those customers who do not like to consume too much alcohol. This would at least give them other ways to use their coupon(s).
 
