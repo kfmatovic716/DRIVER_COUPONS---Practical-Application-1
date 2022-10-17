@@ -16,7 +16,7 @@ In this analysis, acceptance rates of Coffee Houses and Bar coupons were explore
 Key Findings on Bar Coupons:
 
 1. Customers who goes to bars more frequently are less likely to accept bar coupons than customers who goes to the bar less. If they like to go to bars, they will go regardless of having a coupon. On the other hand, less frequent bar goers are more likely to accept the coupon, as the 81% acceptance rate shows. In this group, bar coupons appeal to ages 21 to early 30s. Spending money in a bar is less priority for them, so bar coupons might be a good incentive. 
-<img src='images/barcoupon.png'>
+<img src='images/barcoupon2.png'>
 
 2. Customers going to bar more than once a month and over age of 25 are likely to accept bar coupons. This age group itself already assume the beginning of drinking stage and high social engagements. This group of customers  are either just started to go to bars or can also be the customers who have been going to bars more frequently. 
 
